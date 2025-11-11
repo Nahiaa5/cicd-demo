@@ -26,5 +26,5 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: Nahiaa5/holamundo
+          tags: nahiaa5/holamundo
         
